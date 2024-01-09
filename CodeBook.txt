@@ -1,0 +1,10 @@
+Topic: Are changes in land Cover and Carbon emissions concentrations in the WORLD responsible for changing Surface temperature(Climate Change)
+
+Question: Are efforts being made to mitigate climate change buy reducing Carbon emission concentrations and 
+
+Variables; 
+	#Surface Temperature change for the years (2000-2021)
+
+	#CO2 concentration change for the years (2000-2021)
+	
+	#Land cover change for the years (2000-2021)
